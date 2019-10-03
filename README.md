@@ -9,8 +9,6 @@ Para para iniciar o meetup web é necessario rodar 'yarn start'.
 
 Para iniciar a aplicação mobile, antes rodar o comando 'react-native run-android' para o app ser instalado no dispositio. Logo após rodar o comando 'react-native start'.
 
-OBS: Meetup mobile foi desenvolvido apenas no Android.
-OBS: No arquivo 'api' dentro de services da aplicação mobile, a url esta setado com o IP da maquina.
-OBS: No arquivo 'api' dentro de services na aplicação web, a url esta setado como 'localhost'.
+OBS: Meetup mobile foi desenvolvido apenas no Android. No arquivo 'api' dentro de services da aplicação mobile, a url esta setado com o IP da maquina. No arquivo 'api' dentro de services na aplicação web, a url esta setado como 'localhost'.
 
 # Meetup
