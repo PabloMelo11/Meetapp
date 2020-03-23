@@ -2,6 +2,10 @@
 
 =======
 
+# Imagem do projeto
+
+![Imagem project](https://github.com/PabloMelo11/Meetapp/blob/master/meetup.png)
+
 # Requisitos Funcionais
 
 - O usuário deve poder se cadastrar com nome, e-mail e senha;
@@ -36,6 +40,3 @@
 
 OBS: Meetup mobile foi desenvolvido apenas no Android. No arquivo 'api' dentro de services da aplicação mobile, a url esta setado com o IP da maquina. No arquivo 'api' dentro de services na aplicação web, a url esta setado como 'localhost'.
 
-# Imagem do projeto
-
-![Imagem project](https://github.com/PabloMelo11/Meetapp/blob/master/meetup.png)
